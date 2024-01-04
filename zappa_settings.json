@@ -1,0 +1,10 @@
+{
+    "dev": {
+        "aws_region": "us-east-1",
+        "django_settings": "mysite.mysite.settings",
+        "profile_name": "anton_projects",
+        "project_name": "test-awslambda-zappa-django",
+        "runtime": "python3.11",
+        "s3_bucket": "antonpirker-test-zappa-ml4ue4qxn"
+    }
+}
